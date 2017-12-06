@@ -1,2 +1,3 @@
 this is the firt line we created .txt file in the empty clone repository 
 The second writing by using linux command "vim server.txt"
+making changes in the file cloning the code or files from Destop(Git-repos) to githubdesktop.
